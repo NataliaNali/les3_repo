@@ -8,3 +8,5 @@ Text added in web browser
 Text added locally
 
 Add text to "newbranch"
+
+Conflict creation
