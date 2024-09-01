@@ -9,4 +9,4 @@ Text added locally
 
 Add text to "newbranch"
 
-Conflict creation
+Local conflict added
